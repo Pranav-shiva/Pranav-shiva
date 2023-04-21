@@ -1,7 +1,7 @@
 [![MasterHead](https://webandcrafts.com/blog/wp-content/uploads/2019/08/Flutter-for-Mobile-App-Development_banner-01.jpg)]
 
 <h1 align="center">Hi 👋, I'm Pranav Shiva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>hiva&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-shiva" /> </p>
+<h3 align="center">A passionate frontend developer from India</h3> </p>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Co worker](https://github.com/Pranav-shiva/co-worker)
